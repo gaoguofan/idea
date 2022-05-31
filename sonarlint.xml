@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.vesync.cn:9000" />
+          <token>df98df9ddfc8dfcbdfc8dfc9df99df98dfcfdf9adf9ddf9ddf9adfccdf9fdf93df9bdf9ddf9cdf9bdf99df9ddf9bdf9edfccdfc8df93dfc9df99dfccdf9edfc9df9edf93df9ddfcedf99df9ddf9bdfc9</token>
+          <option name="name" value="SonarQube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>

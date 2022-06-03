@@ -8,6 +8,8 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="factories" type="VTL" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>

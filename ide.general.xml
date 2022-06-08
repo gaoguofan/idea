@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Desktop/gitlab" />
     <option name="inactiveTimeout" value="1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />

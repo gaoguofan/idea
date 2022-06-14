@@ -1,15 +1,20 @@
 <application>
   <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="EDITOR_TAB_LIMIT" value="5" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
     <option name="MAX_LOOKUP_WIDTH2" value="873" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="16" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="14" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="showTreeIndentGuides" value="true" />
-    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

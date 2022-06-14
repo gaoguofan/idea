@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Desktop/gitlab" />
     <option name="inactiveTimeout" value="1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
@@ -14,5 +15,12 @@
     <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
     <entry key="ide.experimental.ui.vcs.branch.popup" value="true" />
     <entry key="editable.java.test.console" value="true" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
   </component>
 </application>

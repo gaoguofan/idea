@@ -9,6 +9,8 @@
       <mapping ext="message" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="application.yaml" approved="true" type="spring-boot-properties-yaml" />
+      <removed_mapping pattern="application.yml" approved="true" type="spring-boot-properties-yaml" />
       <mapping ext="factories" type="VTL" />
     </extensionMap>
   </component>

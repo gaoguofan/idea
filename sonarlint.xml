@@ -1,5 +1,29 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S1104">
+          <value>
+            <Rule active="false" key="java:S1104" />
+          </value>
+        </entry>
+        <entry key="java:S1119">
+          <value>
+            <Rule active="false" key="java:S1119" />
+          </value>
+        </entry>
+        <entry key="java:S1444">
+          <value>
+            <Rule active="false" key="java:S1444" />
+          </value>
+        </entry>
+        <entry key="java:S2696">
+          <value>
+            <Rule active="false" key="java:S2696" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
@@ -10,6 +34,11 @@
         </SonarQubeServer>
       </list>
     </option>
-    <rules />
+    <rules>
+      <Rule active="false" key="java:S1104" />
+      <Rule active="false" key="java:S1444" />
+      <Rule active="false" key="java:S2696" />
+      <Rule active="false" key="java:S1119" />
+    </rules>
   </component>
 </application>
